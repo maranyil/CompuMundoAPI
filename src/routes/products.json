@@ -1,0 +1,292 @@
+[
+    {
+        "id": 1,
+        "name": "Fujifilm Instax Mini11",
+        "price": 1800,
+        "olderPrice": 1900,
+        "savings": 100,
+        "colors": [
+            "azul",
+            "rosa",
+            "morado",
+            "negro"
+        ],
+        "category": "Cámaras",
+        "description": "Toma fotos divertidas y compártelas de inmediato con esta cámara instantánea Fujifilm instax mini 11 lila. La exposición automática y el flash incorporado garantizan que cada imagen sea perfecta, y el espejo para selfies te permite alinear las fotos con tus amigos.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD6vgWNmHqi5MUg7vRRs0j-kd9KkDj-4tdsg&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "JBL CLIP2 ",
+        "price": 1428,
+        "olderPrice": 1458,
+        "savings": 30,
+        "colors": [
+            "azul",
+            "naranja",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Salir de tu casa no implica que dejes a un lado disfrutar de un potente sonido en audio. Con la bocina bluetooth JBL Clip 3 escucha tu muisca favorita en donde sea que estés por hasta 10 horas seguidas. Incluso si tienes una fiesta en la piscina y accidentalmente cae, no te preocupes, ya que esta bocina inalámbrica es sumergible.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2hupgkUqF6W4uetD4KRiI43J2JHhGsYxYAfeo8F9i4tM2UjP4OvwZJks_NcVbUDn1SDdlWwRy&usqp=CAc"
+    },
+    {
+        "id": 3,
+        "name": "Nintendo Switch ",
+        "price": 11240,
+        "olderPrice": 12000,
+        "savings": 760,
+        "colors": [
+            "neón",
+            "negro"
+        ],
+        "category": "Consolas",
+        "description": "Juega en cualquier lugar con la consola Nintendo Switch con controles Joy-Con en color Gris. Los dos controles incluidos vienen con un agarre para actuar como un control tradicional o se pueden conectar al sistema para jugar en dispositivos móviles.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34UeyjA-Wviy8Pa9g18aUpkbDIbkHUqA90w&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Laptop HP Omen",
+        "price": 29300,
+        "olderPrice": 29500,
+        "savings": 200,
+        "colors": [
+            "roja",
+            "negro"
+        ],
+        "category": "Computación",
+        "description": "Computadora gaming. Con su extraordinario diseño compacto y profesionalizado, poderoso procesador AMD Ryzen H más gráficos NVIDIA y OMEN Command Center para optimizar todos los recursos que necesitas.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiktEJZ-RlTJtl2IvVW27G8ojgD3GSPdCCeoGS8fPX2SJoEqWhpC5Slqs71SD6jVVMjeajTSc&usqp=CAc"
+    },
+    {
+        "id": 5,
+        "name": "Bocina Echo Dot",
+        "price": 850,
+        "olderPrice": 1000,
+        "savings": 150,
+        "colors": [
+            "azul",
+            "rojo",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Echo Dot es una bocina inteligente que se controla con la voz y te conecta con Alexa a través de red Wi-Fi. Alexa puede reproducir música, responder a preguntas, narrar las noticias, consultar el pronóstico del clima, configurar alarmas, controlar dispositivos de Casa Inteligente compatibles y mucho más.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2hG378zYytieHlCviqOP0KY4mU2Hzf6vuFoSvyhUfSsD-x7oCCvMDo4IXQeaxepzCx3PUqURZ&usqp=CAc"
+    },
+    {
+        "id": 6,
+        "name": "Canon G7 X MarkII",
+        "price": 19300,
+        "olderPrice": 19699,
+        "savings": 399,
+        "colors": [
+            "negro"
+        ],
+        "category": "Cámaras",
+        "description": "La cámara de fotos modelo G7X MARK II de la marca Canon, posee una tamaño compacto que cabe perfectamente en cangurera o mochila para llevarla a donde sea que este la acción. Su sensor CMOS de 20.1 megapíxeles en conjunto con el procesador DIGIC 7 te ayudan a obtener colores naturales y precisos en cada captura o grabación.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwRiwm7MBt0JdqJoXNNEdZUDLkoxDDouNe5rZcMjtGGq9Tc_qZp-JYe7LQCA&usqp=CAc"
+    },
+    {
+        "id": 7,
+        "name": "Laptop HP Omen ",
+        "price": 20000,
+        "olderPrice": 20399,
+        "savings": 399,
+        "colors": [
+            "gris",
+            "blanco",
+            "azul",
+            "morado"
+        ],
+        "category": "Computación",
+        "description": "Estudia, conéctate y comparte, todo en una sola carga. La nueva HP Stream Laptop mantente productivo y publica en redes con increíble estilo.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-DD2CcTmCEmBKBMnoceeM-gqFWPp2c8fL1A&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "name": "Audifonos BT Sony",
+        "price": 2430,
+        "olderPrice": 2540,
+        "savings": 110,
+        "colors": [
+            "azul",
+            "verde",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Llamadas manos libres, extra bajo, audio excepcional. Todo con la garantía y confianza de Sony.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW4LKqSGdd37nui-lD1PzX2FCEJMx1x_jioicZMndxIhL4x9itwv1m0HPai7-1H92g7SqTssg&usqp=CAc"
+    },
+    {
+        "id": 9,
+        "name": "Lenovo Thinkbook",
+        "price": 18500,
+        "olderPrice": 18999,
+        "savings": 499,
+        "colors": [
+            "gris",
+            "negro"
+        ],
+        "category": "Computación",
+        "description": "Estas laptops facilitan la tarea de hacer negocios con estilo. Desde opciones que te mantienen en funcionamiento sin pausa, hasta la seguridad que funciona entre bastidores. Y eso no es todo: las laptops ThinkBook cuentan con funciones de entretenimiento increíbles.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeQvBqwh2laJEAkcQmWqqAv3v-EBLz7Vd0pxCmiZfRTzkYnwKNljGDSodbtKsIPI0JMEpPWPA&usqp=CAc"
+    },
+    {
+        "id": 10,
+        "name": "Sony a7",
+        "price": 33270,
+        "olderPrice": 33300,
+        "savings": 30,
+        "colors": [
+            "negro"
+        ],
+        "category": "Cámaras",
+        "description": "Un sensor de imagen y un sistema de procesamiento de imagen totalmente renovados mejoran aún más la calidad de imagen. El rendimiento general del enfoque automático mejorado, el disparo continuo a alta velocidad de hasta 10 fps.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQK2lBLMVs94TNLak8ma8EPIgxnkge6nT0oDQ&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "name": "Iphone 11PRO",
+        "price": 25699,
+        "olderPrice": 25899,
+        "savings": 200,
+        "colors": [
+            "dorado",
+            "gris espacial",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "El iPhone Pro tiene un revolucionario sistema de tres cámaras, muy fácil de usar, que multiplica tu capacidad creativa. Y trae un chip sorprendente que potencia el aprendizaje automático y redefine lo que un smartphone puede hacer. Además, la duración de la batería mejoró como nunca.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7wopavivxVnB-1qKpuDvAvyxESfiiTNh8U25BrDUk11j2jBZ25HQIU7_adaY6YZRfNGCk3dE&usqp=CAc"
+    },
+    {
+        "id": 12,
+        "name": "Huawei P30",
+        "price": 6319,
+        "olderPrice": 6400,
+        "savings": 81,
+        "colors": [
+            "azul",
+            "rojo",
+            "verde",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "Con Huawei P30 Lite, tendrás la belleza en cada toma, grandiosas cámaras para ser la super estrella de las selfies y capturar cada detalle con su cámara ultra angular. Disfruta de todo tu contenido con una pantalla increíble para ver, hacer y crecer más.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbuw70496LBV4W7KCEnDmEs7RkUXRC7tHdT6bvlu5iBqOhwIOgVsvo1h8C6Q&usqp=CAc"
+    },
+    {
+        "id": 13,
+        "name": "Dell Inspiron 700",
+        "price": 27600,
+        "olderPrice": 28100,
+        "savings": 500,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Computación",
+        "description": "Laptop compacta de 14” con bordes angostos que ofrecen vistas amplias en la pantalla. Cuenta con Dell Cinema y los últimos procesadores Intel.",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000231028_sa.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Samsung Galaxy Buds",
+        "price": 4400,
+        "olderPrice": 4600,
+        "savings": 200,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Diseñados con el altavoz Galaxy Buds más grande, bajos mejorados y un ajuste abierto, las listas de reproducción suenan más como música en vivo que nunca. Cuando necesites bloquear el ruido de fondo para una llamada telefónica o una tarea importante, inicia la Cancelación activa de ruido con un toque.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBXEuIa_nyAMtp6UBVpJsbhLhb8U2LWmuNSg&usqp=CAU"
+    },
+    {
+        "id": 15,
+        "name": "Play Station 4",
+        "price": 10299,
+        "olderPrice": 10399,
+        "savings": 100,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Consolas",
+        "description": "La consola PlayStation 4, ahora más liviana y más delgada, tiene un disco duro de 1 TB para que disfrutes los mejores juegos, tu música favorita y mucho más.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf3P1n3L-DRF0sIjG7Yq3DekfvAtPqw9Ys-w&usqp=CAU"
+        },
+    {
+        "id": 16,
+        "name": "XBox One",
+        "price": 9600,
+        "olderPrice": 9799,
+        "savings": 199,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Consolas",
+        "description": "Con 40 % más de potencia que cualquier otra consola, podrás disfrutar de un juego en 4K verdaderamente envolvente. Los juegos simplemente se reproducen mejor en Xbox One X.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQe8QJaB2fs2Xh40em8GFRqwcrXZsJ5HCMd4Q&usqp=CAU"
+        },
+    {
+        "id": 17,
+        "name": "Motorola E6",
+        "price": 3100,
+        "olderPrice": 3199,
+        "savings": 99,
+        "colors": [
+            "verde",
+            "morado",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "Con sensor de huella digital y desbloqueo facial, el nuevo moto e6 play te garantiza acceso inmediato a tus aplicaciones y entretenimiento favoritos sin necesidad de una contraseña. Almacena miles de fotos, canciones y videos, y expande de forma sencilla tu memoria con una tarjeta microSD.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNINqiuLr0bi8Lv2AUls6ILOpyGQZvRqc7nD1cHUNZe1v_JEJLa_biRWe_DemAW2iA8kqnYvkA&usqp=CAc"
+    },
+    {
+        "id": 18,
+        "name": "Dell G15",
+        "price": 20000,
+        "olderPrice": 20299,
+        "savings": 299,
+        "colors": [
+            "roja",
+            "azul",
+            "negro"
+        ],
+        "category": "Computación",
+        "description": "Con pantalla de 15 pulgadas, sonido envolvente, la mejor tarjeta gráfica, esta computadora es tu mejor opción si eres un gamer apasionado. Lleva la diversión en tu mochila con Dell.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj0yDbWl-tOPkbQz9AZfoIqPG48xg_8RgPDQ&usqp=CAU"
+        },
+    {
+        "id": 19,
+        "name": "Nokia 8.1",
+        "price": 3899,
+        "olderPrice": 4000,
+        "savings": 30,
+        "colors": [
+            "azul",
+            "rojo",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "El nuevo modelo de la Nueva Nokia. La marca finlandesa regresa con mucho potencial, ofreciendo lector de huellas, pantallas más grandes y una apuesta de trabajo conjunto con Android. Tu movil de siempre, con el software más actual.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj8QBQ1YE8WPOH9yVUlH8QOIOkilP02RWg7w&usqp=CAU"
+        },
+    {
+        "id": 20,
+        "name": "EOS Rebel T7",
+        "price": 15200,
+        "olderPrice": 15200,
+        "savings": 0,
+        "colors": [
+            "negro"
+        ],
+        "category": "Cámaras",
+        "description": "La EOS Rebel T7 es la cámara ideal para quienes disfrutan capturar recuerdos en sus dispositivos móviles, pero buscan dar el siguiente paso y mejorar la calidad de imagen en sus fotografías.",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227460_sd.jpg"
+        }
+]
